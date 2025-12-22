@@ -1,0 +1,18 @@
+# Virtual environments
+predict_churn_env/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+
+# Data & models
+data/
+models/
+mlruns/
+
+
+# Notebooks
+.ipynb_checkpoints/
