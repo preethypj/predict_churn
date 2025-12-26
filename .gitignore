@@ -16,3 +16,4 @@ mlruns/
 
 # Notebooks
 .ipynb_checkpoints/
+test.ipynb
